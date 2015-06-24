@@ -15,7 +15,8 @@ In Mobile IP, the Mobile Node's address must remain the same regardless of which
 the fixed home address consists of the port (and not the IP address.) 
 
 
-HOW EACH PROGRAM WORKS---------------------------------------------------------------------------------------------------------
+HOW EACH PROGRAM WORKS-------------------------------------------------------------------------------------------------------
+
 The Data Source opens a UDP port, sets the destination to the Home Agent IP/Mobile Node port, and sends a packet once per 
 second,with increasing sequence numbers. The source IP/port do not matter.
 
@@ -35,3 +36,5 @@ IP/Mobile Node port.  Every 5 seconds, it sends a registration request to the Ho
 care-of address in the packet.  (We assume that the Mobile Node knows the care-of addresses for the 2 Foreign Agents.)   
 When it receives a packet, it must make sure that it has come from the right Foreign Agent (by comparing the source port to 
 the currently registered Foreign Agent).  When the Mobile Node has run for 100 seconds it should exit. 
+
+NOTE: I included a .txt file which shows the output of each program.
