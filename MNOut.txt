@@ -1,0 +1,137 @@
+Script started on Sat 29 Nov 2014 09:06:55 PM PST
+]0;hs6289@geometry:~[hs6289@geometry ~]$ MN 5050 ge[K[Kcalculus 50250[K[hs6289@geometry ~]$ MN 5050 calculus 50250
+Socket has port #5050
+Sat Nov 29 21:11:19 2014
+Received packet, seqno = 1, FA Port# 7000 Accepted
+Send Reg packet: change to FA# 1
+Sat Nov 29 21:11:20 2014
+Received packet, seqno = 2, FA Port# 7001 Accepted
+Sat Nov 29 21:11:21 2014
+Received packet, seqno = 3, FA Port# 7001 Accepted
+Sat Nov 29 21:11:22 2014
+Received packet, seqno = 4, FA Port# 7001 Accepted
+Sat Nov 29 21:11:23 2014
+Received packet, seqno = 5, FA Port# 7001 Accepted
+Sat Nov 29 21:11:24 2014
+Received packet, seqno = 6, FA Port# 7001 Accepted
+Sat Nov 29 21:11:25 2014
+Received packet, seqno = 7, FA Port# 7001 Accepted
+Send Reg packet: change to FA# 2
+Sat Nov 29 21:11:26 2014
+Received packet, seqno = 8, FA Port# 7000 Accepted
+Sat Nov 29 21:11:27 2014
+Received packet, seqno = 9, FA Port# 7000 Accepted
+Sat Nov 29 21:11:28 2014
+Received packet, seqno = 10, FA Port# 7000 Accepted
+Sat Nov 29 21:11:29 2014
+Received packet, seqno = 11, FA Port# 7000 Accepted
+Sat Nov 29 21:11:30 2014
+Received packet, seqno = 12, FA Port# 7000 Accepted
+Sat Nov 29 21:11:31 2014
+Received packet, seqno = 13, FA Port# 7000 Accepted
+Send Reg packet: change to FA# 1
+Sat Nov 29 21:11:32 2014
+Received packet, seqno = 14, FA Port# 7001 Accepted
+Sat Nov 29 21:11:33 2014
+Received packet, seqno = 15, FA Port# 7001 Accepted
+Sat Nov 29 21:11:34 2014
+Received packet, seqno = 16, FA Port# 7001 Accepted
+Sat Nov 29 21:11:35 2014
+Received packet, seqno = 17, FA Port# 7001 Accepted
+Sat Nov 29 21:11:36 2014
+Received packet, seqno = 18, FA Port# 7001 Accepted
+Sat Nov 29 21:11:37 2014
+Received packet, seqno = 19, FA Port# 7001 Accepted
+Send Reg packet: change to FA# 2
+Sat Nov 29 21:11:38 2014
+Received packet, seqno = 20, FA Port# 7000 Accepted
+Sat Nov 29 21:11:39 2014
+Received packet, seqno = 21, FA Port# 7000 Accepted
+Sat Nov 29 21:11:40 2014
+Received packet, seqno = 22, FA Port# 7000 Accepted
+Sat Nov 29 21:11:41 2014
+Received packet, seqno = 23, FA Port# 7000 Accepted
+Sat Nov 29 21:11:42 2014
+Received packet, seqno = 24, FA Port# 7000 Accepted
+Sat Nov 29 21:11:43 2014
+Received packet, seqno = 25, FA Port# 7000 Accepted
+Send Reg packet: change to FA# 1
+Sat Nov 29 21:11:44 2014
+Received packet, seqno = 26, FA Port# 7001 Accepted
+Sat Nov 29 21:11:46 2014
+Received packet, seqno = 27, FA Port# 7001 Accepted
+Sat Nov 29 21:11:47 2014
+Received packet, seqno = 28, FA Port# 7001 Accepted
+Sat Nov 29 21:11:48 2014
+Received packet, seqno = 29, FA Port# 7001 Accepted
+Sat Nov 29 21:11:49 2014
+Received packet, seqno = 30, FA Port# 7001 Accepted
+Sat Nov 29 21:11:50 2014
+Received packet, seqno = 31, FA Port# 7001 Accepted
+Send Reg packet: change to FA# 2
+Sat Nov 29 21:11:51 2014
+Received packet, seqno = 32, FA Port# 7000 Accepted
+Sat Nov 29 21:11:52 2014
+Received packet, seqno = 33, FA Port# 7000 Accepted
+Sat Nov 29 21:11:53 2014
+Received packet, seqno = 34, FA Port# 7000 Accepted
+Sat Nov 29 21:11:54 2014
+Received packet, seqno = 35, FA Port# 7000 Accepted
+Sat Nov 29 21:11:55 2014
+Received packet, seqno = 36, FA Port# 7000 Accepted
+Sat Nov 29 21:11:56 2014
+Received packet, seqno = 37, FA Port# 7000 Accepted
+Send Reg packet: change to FA# 1
+Sat Nov 29 21:11:57 2014
+Received packet, seqno = 38, FA Port# 7001 Accepted
+Sat Nov 29 21:11:58 2014
+Received packet, seqno = 39, FA Port# 7001 Accepted
+Sat Nov 29 21:11:59 2014
+Received packet, seqno = 40, FA Port# 7001 Accepted
+Sat Nov 29 21:12:00 2014
+Received packet, seqno = 41, FA Port# 7001 Accepted
+Sat Nov 29 21:12:01 2014
+Received packet, seqno = 42, FA Port# 7001 Accepted
+Sat Nov 29 21:12:02 2014
+Received packet, seqno = 43, FA Port# 7001 Accepted
+Send Reg packet: change to FA# 2
+Sat Nov 29 21:12:03 2014
+Received packet, seqno = 44, FA Port# 7000 Accepted
+Sat Nov 29 21:12:04 2014
+Received packet, seqno = 45, FA Port# 7000 Accepted
+Sat Nov 29 21:12:05 2014
+Received packet, seqno = 46, FA Port# 7000 Accepted
+Sat Nov 29 21:12:06 2014
+Received packet, seqno = 47, FA Port# 7000 Accepted
+Sat Nov 29 21:12:07 2014
+Received packet, seqno = 48, FA Port# 7000 Accepted
+Sat Nov 29 21:12:08 2014
+Received packet, seqno = 49, FA Port# 7000 Accepted
+Send Reg packet: change to FA# 1
+Sat Nov 29 21:12:09 2014
+Received packet, seqno = 50, FA Port# 7001 Accepted
+Sat Nov 29 21:12:10 2014
+Received packet, seqno = 51, FA Port# 7001 Accepted
+Sat Nov 29 21:12:11 2014
+Received packet, seqno = 52, FA Port# 7001 Accepted
+Sat Nov 29 21:12:12 2014
+Received packet, seqno = 53, FA Port# 7001 Accepted
+Sat Nov 29 21:12:13 2014
+Received packet, seqno = 54, FA Port# 7001 Accepted
+Sat Nov 29 21:12:14 2014
+Received packet, seqno = 55, FA Port# 7001 Accepted
+Send Reg packet: change to FA# 2
+Sat Nov 29 21:12:15 2014
+Received packet, seqno = 56, FA Port# 7000 Accepted
+Sat Nov 29 21:12:16 2014
+Received packet, seqno = 57, FA Port# 7000 Accepted
+Sat Nov 29 21:12:17 2014
+Received packet, seqno = 58, FA Port# 7000 Accepted
+Sat Nov 29 21:12:18 2014
+Received packet, seqno = 59, FA Port# 7000 Accepted
+Sat Nov 29 21:12:19 2014
+Received packet, seqno = 60, FA Port# 7000 Accepted
+]0;hs6289@geometry:~[hs6289@geometry ~]$ exit
+exit
+
+Script done on Sat 29 Nov 2014 09:12:38 PM PST

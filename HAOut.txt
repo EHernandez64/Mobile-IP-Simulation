@@ -1,0 +1,77 @@
+Script started on Sat 29 Nov 2014 09:09:18 PM PST
+]0;hs6289@calculus:~[hs6289@calculus ~]$ HA 50250 trig 7000 7001
+Socket has port #50250
+SeqNo = 1 Forwarded to: 134.154.190.159/7000
+Received Reg Packet, New CoA = 134.154.190.159/7001
+SeqNo = 2 Forwarded to: 134.154.190.159/7001
+SeqNo = 3 Forwarded to: 134.154.190.159/7001
+SeqNo = 4 Forwarded to: 134.154.190.159/7001
+SeqNo = 5 Forwarded to: 134.154.190.159/7001
+SeqNo = 6 Forwarded to: 134.154.190.159/7001
+SeqNo = 7 Forwarded to: 134.154.190.159/7001
+Received Reg Packet, New CoA = 134.154.190.159/7000
+SeqNo = 8 Forwarded to: 134.154.190.159/7000
+SeqNo = 9 Forwarded to: 134.154.190.159/7000
+SeqNo = 10 Forwarded to: 134.154.190.159/7000
+SeqNo = 11 Forwarded to: 134.154.190.159/7000
+SeqNo = 12 Forwarded to: 134.154.190.159/7000
+SeqNo = 13 Forwarded to: 134.154.190.159/7000
+Received Reg Packet, New CoA = 134.154.190.159/7001
+SeqNo = 14 Forwarded to: 134.154.190.159/7001
+SeqNo = 15 Forwarded to: 134.154.190.159/7001
+SeqNo = 16 Forwarded to: 134.154.190.159/7001
+SeqNo = 17 Forwarded to: 134.154.190.159/7001
+SeqNo = 18 Forwarded to: 134.154.190.159/7001
+SeqNo = 19 Forwarded to: 134.154.190.159/7001
+Received Reg Packet, New CoA = 134.154.190.159/7000
+SeqNo = 20 Forwarded to: 134.154.190.159/7000
+SeqNo = 21 Forwarded to: 134.154.190.159/7000
+SeqNo = 22 Forwarded to: 134.154.190.159/7000
+SeqNo = 23 Forwarded to: 134.154.190.159/7000
+SeqNo = 24 Forwarded to: 134.154.190.159/7000
+SeqNo = 25 Forwarded to: 134.154.190.159/7000
+Received Reg Packet, New CoA = 134.154.190.159/7001
+SeqNo = 26 Forwarded to: 134.154.190.159/7001
+SeqNo = 27 Forwarded to: 134.154.190.159/7001
+SeqNo = 28 Forwarded to: 134.154.190.159/7001
+SeqNo = 29 Forwarded to: 134.154.190.159/7001
+SeqNo = 30 Forwarded to: 134.154.190.159/7001
+SeqNo = 31 Forwarded to: 134.154.190.159/7001
+Received Reg Packet, New CoA = 134.154.190.159/7000
+SeqNo = 32 Forwarded to: 134.154.190.159/7000
+SeqNo = 33 Forwarded to: 134.154.190.159/7000
+SeqNo = 34 Forwarded to: 134.154.190.159/7000
+SeqNo = 35 Forwarded to: 134.154.190.159/7000
+SeqNo = 36 Forwarded to: 134.154.190.159/7000
+SeqNo = 37 Forwarded to: 134.154.190.159/7000
+Received Reg Packet, New CoA = 134.154.190.159/7001
+SeqNo = 38 Forwarded to: 134.154.190.159/7001
+SeqNo = 39 Forwarded to: 134.154.190.159/7001
+SeqNo = 40 Forwarded to: 134.154.190.159/7001
+SeqNo = 41 Forwarded to: 134.154.190.159/7001
+SeqNo = 42 Forwarded to: 134.154.190.159/7001
+SeqNo = 43 Forwarded to: 134.154.190.159/7001
+Received Reg Packet, New CoA = 134.154.190.159/7000
+SeqNo = 44 Forwarded to: 134.154.190.159/7000
+SeqNo = 45 Forwarded to: 134.154.190.159/7000
+SeqNo = 46 Forwarded to: 134.154.190.159/7000
+SeqNo = 47 Forwarded to: 134.154.190.159/7000
+SeqNo = 48 Forwarded to: 134.154.190.159/7000
+SeqNo = 49 Forwarded to: 134.154.190.159/7000
+Received Reg Packet, New CoA = 134.154.190.159/7001
+SeqNo = 50 Forwarded to: 134.154.190.159/7001
+SeqNo = 51 Forwarded to: 134.154.190.159/7001
+SeqNo = 52 Forwarded to: 134.154.190.159/7001
+SeqNo = 53 Forwarded to: 134.154.190.159/7001
+SeqNo = 54 Forwarded to: 134.154.190.159/7001
+SeqNo = 55 Forwarded to: 134.154.190.159/7001
+Received Reg Packet, New CoA = 134.154.190.159/7000
+SeqNo = 56 Forwarded to: 134.154.190.159/7000
+SeqNo = 57 Forwarded to: 134.154.190.159/7000
+SeqNo = 58 Forwarded to: 134.154.190.159/7000
+SeqNo = 59 Forwarded to: 134.154.190.159/7000
+SeqNo = 60 Forwarded to: 134.154.190.159/7000
+]0;hs6289@calculus:~[hs6289@calculus ~]$ exit
+exit
+
+Script done on Sat 29 Nov 2014 09:12:32 PM PST
